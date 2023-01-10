@@ -53,6 +53,6 @@
 </div>
  
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zehraseren&&style=flat-square" align="center"/>
+  <img src="https://komarev.com/ghpvc/?username=zehraseren&&style=plastics" align="center"/>
 </div>  
 

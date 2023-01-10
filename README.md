@@ -18,7 +18,7 @@
 <a href="https://twitter.com/morkakullukiz" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-black?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://www.instagram.com/fzseren/?hl=tr" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-black?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/19802472/zehraseren?tab=profile" target="_blank"><img alt="Stackoverflow" src="https://img.shields.io/badge/stackoveflow-black?&style=for-the-badge&logo=Stackoverflow&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/zehraseren?hr_r=1" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/hackerrank-black&style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/zehraseren?hr_r=1" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 <a href="https://www.instagram.com/fzseren/?hl=tr" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 ### 📊 My GitHub Stats

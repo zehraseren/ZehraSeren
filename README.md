@@ -19,7 +19,7 @@
 <a href="https://www.instagram.com/fzseren/?hl=tr" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-black?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/19802472/zehraseren?tab=profile" target="_blank"><img alt="Stackoverflow" src="https://img.shields.io/badge/stackoveflow-black?&style=for-the-badge&logo=Stackoverflow&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/zehraseren?hr_r=1" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-<a href="zehraseren#9997" target="_blank"><img alt="discord" src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://discordapp.com/users/zehraseren#9997" target="_blank"><img alt="discord" src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 ### 📊 My GitHub Stats
 

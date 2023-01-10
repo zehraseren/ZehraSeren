@@ -54,6 +54,6 @@
  
 - - -
  
-<div style="center">
+<div align="center">
   [![](https://visitcount.itsvg.in/api?id=zehraseren&icon=7&color=10)](https://visitcount.itsvg.in) 
 </div>

@@ -9,3 +9,13 @@
 &emsp;&emsp;&emsp;☕🎧 Coffee and music enough for me to coding. </br>
 
 - 🐣 I’m currently learning JavaScript.
+
+### 📊 My GitHub Stats
+
+
+<div align="center">
+  <a href="https://github.com/fulyaertay">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fulyaertay&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fulyaertay&theme=nightowl&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fulyaertay&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
+</div>

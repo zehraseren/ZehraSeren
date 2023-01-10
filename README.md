@@ -51,6 +51,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zehraseren&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehraseren&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
 </div>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=zehraseren&&style=flat-square" align="center" />
-</div>  
+[![](https://visitcount.itsvg.in/api?id=MaheenMohid&icon=7&color=10)](https://visitcount.itsvg.in) 

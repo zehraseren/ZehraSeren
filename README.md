@@ -5,7 +5,8 @@
 
 ### 👩‍💻 Me, Myself & I:
 &emsp;&emsp;&emsp;<font color="blue"> 👻 I'm Metallurgical and Materials Engineer but I'm interested in software. </font> </br>
-&emsp;&emsp;&emsp;<font color="purple"> 🌠 I decided to turn my life route to software for new excitements. </font> <
+&emsp;&emsp;&emsp;<font color="purple"> 🌠 I decided to turn my life route to software for new excitements. </font> </br>
+&emsp;&emsp;&emsp;<font color="purple"> ☕🎧 Coffee and music enough for me to coding.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

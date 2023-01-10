@@ -3,10 +3,9 @@
 <!--
 **zehraseren/ZehraSeren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. </br> -->
 
-### 👩‍💻 Me, Myself & I:&emsp;&emsp;&emsp;<font color="blue">
-
- ✴ I'm Metallurgical and Materials Engineer but I'm interested in software. </font> </br>
-
+### 👩‍💻 Me, Myself & I:
+&emsp;&emsp;&emsp;<font color="blue"> 👻 I'm Metallurgical and Materials Engineer but I'm interested in software. </font> </br>
+&emsp;&emsp;&emsp;<font color="purple"> 🌠 I decided to turn my life route to software for new excitements. </font> <
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

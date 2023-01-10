@@ -11,7 +11,7 @@
 - 🐣 I’m currently learning JavaScript.
 
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/muratoner/count.svg" />
+  <img src="https://profile-counter.glitch.me/zehraseren/count.svg" />
 </p>
 
 ### 📊 My GitHub Stats

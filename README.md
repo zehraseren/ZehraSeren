@@ -10,9 +10,7 @@
 
 - 🐣 I’m currently learning JavaScript.
 
-
 ### 📊 My GitHub Stats
-
 
 <div align="center">
   <a href="https://github.com/zehraseren">

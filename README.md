@@ -16,7 +16,6 @@
 <div align="center">
   <a href="https://github.com/zehraseren">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zehraseren&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zehraseren&theme=midnight-purple&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehraseren&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
 </div>
 <div align="center">

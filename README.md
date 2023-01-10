@@ -4,7 +4,7 @@
 **zehraseren/ZehraSeren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. </br> -->
 
 ### 👩‍💻 Me, Myself & I:
-&emsp;&emsp;&emsp; ![#f03c15]👻 I'm Metallurgical and Materials Engineer but I'm interested in software.</br>
+![#f03c15] `&emsp;&emsp;&emsp; 👻 I'm Metallurgical and Materials Engineer but I'm interested in software.`
 &emsp;&emsp;&emsp;🌠 I decided to turn my life route to software for new excitements. </br>
 &emsp;&emsp;&emsp;☕🎧 Coffee and music enough for me to coding.
 - 🐣 I’m currently learning JavaScript.

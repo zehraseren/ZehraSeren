@@ -2,8 +2,6 @@
 * * *
 <!--
 **zehraseren/ZehraSeren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. </br> -->
-<style>p{color:blue;}</style>
-
 
 ### 👩‍💻 Me, Myself & I:
 &emsp;&emsp;&emsp;<p id="job"> 👻 I'm Metallurgical and Materials Engineer but I'm interested in software. </p> </br>

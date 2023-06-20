@@ -8,7 +8,7 @@
 &emsp;&emsp;&emsp;🌠 I decided to turn my life route to software for new excitements. </br>
 &emsp;&emsp;&emsp;☕🎧 Coffee and music are enough for me to code. </br>
 
-- 🐣 I’m currently learning JavaScript.
+- 🐣 I’m currently learning .Net & .Net Core.
 * * *
 ### Connect with me:
 
@@ -28,6 +28,7 @@
 <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/jquery/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="mssql" width="40" height="40"/></a>
 
 ### Other Goals Languages and Tools:
 

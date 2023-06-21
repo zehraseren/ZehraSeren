@@ -8,7 +8,7 @@
 &emsp;&emsp;&emsp;🌠 I decided to turn my life route to software for new excitements. </br>
 &emsp;&emsp;&emsp;☕🎧 Coffee and music are enough for me to code. </br>
 
-- 🐣 I’m currently learning .Net & .Net Core.
+- 🐣 I’m currently learning ASP.Net & ASP.Net Core.
 * * *
 ### Connect with me:
 

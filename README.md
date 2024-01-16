@@ -8,45 +8,10 @@
 &emsp;&emsp;&emsp;🌠 I decided to turn my life route to software for new excitements. </br>
 &emsp;&emsp;&emsp;☕🎧 Coffee and music are enough for me to code. </br>
 
-- 🐣 I’m currently learning ASP.Net & ASP.Net Core.
+- 🐣 I’m currently learning React.
 * * *
-### Connect with me:
 
-<a href="mailto:fatmazehraseren@gmail.com" target="_blank"><img  alt="Gmail" src="https://img.shields.io/badge/-gmail-black?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/zehraseren/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-black?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://medium.com/@zehraseren" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://twitter.com/morkakullukiz" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-black?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://www.instagram.com/fzseren/?hl=tr" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-black?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/19802472/zehraseren?tab=profile" target="_blank"><img alt="Stackoverflow" src="https://img.shields.io/badge/stackoveflow-black?&style=for-the-badge&logo=Stackoverflow&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/zehraseren?hr_r=1" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-<a href="https://discordapp.com/users/zehraseren#9997" target="_blank"><img alt="discord" src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white"/></a>
-
-### Languages and Tools:
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/jquery/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="mssql" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="git" width="40" height="40"/></a>
-<a href="[https://reactjs.org](https://react.dev/)/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-
-### Other Goals Languages and Tools:
-
-
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="reduxjs" width="40" height="40"/></a>
-<a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/></a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/100/null/typescript.png" alt="typescript" width="40" height="40"/></a>
-
+<!-- <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> -->
 
 ### 📊 My GitHub Stats
 
